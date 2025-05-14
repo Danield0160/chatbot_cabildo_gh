@@ -133,6 +133,7 @@ Ollama permite ejecutar modelos de lenguaje grandes localmente.
     ollama pull bge-m3
     ```
 > **Importante:** Si se queda estancado en el pull, usar una vpn puede arreglarlo.
+> 
 > **Importante:** Ejecutar modelos LLM localmente puede requerir una cantidad significativa de RAM y, preferiblemente, una GPU. `gemma:2b` es más ligero, `gemma:7b` o `gemma3:4b` (si existe) necesitarán más recursos.
 
 ---
